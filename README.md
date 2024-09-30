@@ -29,10 +29,16 @@ Here are some ideas to get you started:
 
 ## 🚀 Technical Skills:
 - Languages: Java, Python, Javascript, C
-- Frameworks: Flask, JUnit
+- Frameworks: Flask, JUnit, Dagger
+- Web technologies: HTML, CSS, Javascript
 - Cloud technologies: AWS
 - Version Control: Git, Github
 - IDEs: VSCode, IntelliJ, PyCharm, Spyder, Jupiter
+
+## 💼 Experience & Achievements:
+- SDE intern @Amazon
+- GDSC Lead'22
+- AWS AI & ML Scholarship Programme recipient 
 
 ## 🤝🏻 Connect with me at:
 - LinkedIn: [K-Naga-Himaja](https://www.linkedin.com/in/k-naga-himaja/)
