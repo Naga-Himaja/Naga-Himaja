@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## 🤓 About me:
 - 🔍 I am looking for full time SWE/SDE roles
-- 💻 I recently started explorig open source, and learning how to contribute
+- 💻 I recently started exploring open source, and learning how to contribute
 - 🌱 I am currently learning React and AWS
 - ➕ I solve sudoku puzzles during my free time
 - 🎤 I occasionally sing on my [Insta Page](https://www.instagram.com/himajazzz/)
