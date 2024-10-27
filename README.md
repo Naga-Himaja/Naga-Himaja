@@ -40,10 +40,6 @@ Here are some ideas to get you started:
 - GDSC Lead'22
 - AWS AI & ML Scholarship Programme recipient 
 
-## 🤝🏻 Connect with me at:
-- LinkedIn: [K-Naga-Himaja](https://www.linkedin.com/in/k-naga-himaja/)
-- Twitter: [Naga-Himaja](https://x.com/KNagaHimaja)
-
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -53,3 +49,12 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Naga-Himaja&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Naga-Himaja&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naga-Himaja&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🤝🏻 Connect with me at:
+- LinkedIn: [K-Naga-Himaja](https://www.linkedin.com/in/k-naga-himaja/)
+- Twitter: [Naga-Himaja](https://x.com/KNagaHimaja)
