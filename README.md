@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# <h1 align="center">Hi, I'm <a href="https://github.com/Naga-Himaja">Himaja<a><img src="https://github.com/Naga-Himaja/Naga-Himaja/blob/main/wave.gif" width="60px" /></h1>
+# <h1 align="center">Hi, I'm Himaja<a><img src="https://github.com/Naga-Himaja/Naga-Himaja/blob/main/wave.gif" width="60px" /></h1>
 
 <p align="center">
     <img src="https://github.com/Naga-Himaja/Naga-Himaja/blob/main/spongebob_hi.gif">
