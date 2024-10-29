@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 - IDEs: VSCode, IntelliJ, PyCharm, Spyder, Jupiter
 
 ## 💼 Experience & Achievements:
-- SDE intern @Amazon
+- GSSoC and Hacktoberfest Contributor - 2024
+- Ex SDE intern @Amazon
 - GDSC Lead'22
 - AWS AI & ML Scholarship Programme recipient 
 
