@@ -1,19 +1,10 @@
-<!--
-**Naga-Himaja/Naga-Himaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# <h1 align="center">Hi, I'm Himaja<a><img src="https://github.com/Naga-Himaja/Naga-Himaja/blob/main/wave.gif" width="60px" /></h1>
+<h1 align="center">Hi, I'm Himaja</h1>
+<div align="center">
+  <a href="https://www.linkedin.com/in/k-naga-himaja"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
+  <a href="mailto:himajakeela18@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
+  <a href="https://x.com/KNagaHimaja"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="Azfar Alam#6950" ></a>
+</div>
+<br>
 
 <p align="center">
     <img src="https://github.com/Naga-Himaja/Naga-Himaja/blob/main/spongebob_hi.gif">
@@ -60,8 +51,3 @@ Here are some ideas to get you started:
  <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Naga-Himaja&theme=highcontrast&hide_border=false" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naga-Himaja&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
-
-
-## 🤝🏻 Connect with me at:
-- LinkedIn: [K-Naga-Himaja](https://www.linkedin.com/in/k-naga-himaja/)
-- Twitter: [Naga-Himaja](https://x.com/KNagaHimaja)
