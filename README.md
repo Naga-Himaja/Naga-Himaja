@@ -12,7 +12,8 @@
 <h3 align="center"> I am a passionate software developer, and singer from India</h3>
 
 ## 🤓 About me:
-- 🔍 I am looking for full time SWE/SDE roles
+- 🔍 I am working as software engineer at Coupa Software
+- 💎 I started working with Ruby on Rails and React
 - 💻 I recently started exploring open source, and learning how to contribute
 - 🌱 I am currently learning React and AWS
 - ➕ I solve sudoku puzzles during my free time
