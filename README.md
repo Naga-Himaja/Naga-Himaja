@@ -20,9 +20,9 @@
 - 🎤 I occasionally sing on my [Insta Page](https://www.instagram.com/himajazzz/)
 
 ## 🚀 Technical Skills:
-- Languages: Java, Python, Javascript, C
-- Frameworks: Flask, JUnit, Dagger
-- Web technologies: HTML, CSS, Javascript
+- Languages: Java, Python, Javascript, C, Ruby
+- Frameworks: Flask, JUnit, Dagger, Rails
+- Web technologies: HTML, CSS, Javascript, React
 - Cloud technologies: AWS
 - Version Control: Git, Github
 - IDEs: VSCode, IntelliJ, PyCharm, Spyder, Jupiter
